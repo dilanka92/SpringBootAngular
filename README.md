@@ -2,7 +2,7 @@
 
 **Following technologies being used**
 
-- SpringBoot 4.0.6.RELEASE
+- SpringBoot 1.5.3.RELEASE
 - Spring Data JPA
 - H2 Database
 - Maven 3
